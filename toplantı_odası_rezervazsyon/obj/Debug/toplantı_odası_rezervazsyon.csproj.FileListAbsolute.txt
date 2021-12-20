@@ -1,0 +1,322 @@
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.AssemblyReference.cache
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyon.resources
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\PC3312\source\repos\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.AssemblyReference.cache
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyon.resources
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3313\Desktop\toplantı_odası_rezervazsyon\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.AssemblyReference.cache
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyon.resources
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3312\Desktop\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csprojAssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyon.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaOzellikleri.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmRezervasyonOlustur.resources
+C:\Users\osman\OneDrive\Masaüstü\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaSec.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.AssemblyReference.cache
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaOzellikleri.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaSec.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmRezervasyonOlustur.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyon.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\PC3312\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csprojAssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaOzellikleri.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaSec.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmRezervasyonOlustur.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\osman\OneDrive\Masaüstü\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervonay.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.AssemblyReference.cache
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaOzellikleri.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaSec.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmRezervasyonOlustur.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervonay.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonduzenle.resources
+C:\Users\PC3313\Desktop\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonlarım.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.AssemblyReference.cache
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaOzellikleri.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaSec.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonduzenle.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonlarım.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmRezervasyonOlustur.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervonay.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3312\Desktop\projekodlarıyeni3\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csprojAssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaOzellikleri.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaSec.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonduzenle.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonlarım.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmRezervasyonOlustur.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervonay.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\osman\OneDrive\Masaüstü\projekodlarıyeni3 - Kopya\projekodları\toplantı_odası_rezervazsyonn (2)\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.odaduzenlekucukekran.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe.config
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\toplantı_odası_rezervazsyon.pdb
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.AssemblyReference.cache
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmanaekran.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmadminpanel.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaOzellikleri.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmOdaSec.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonduzenle.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervasyonlarım.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmRezervasyonOlustur.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.OdaÖzellikleri.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.frmrezervonay.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.odaduzenlekucukekran.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.Properties.Resources.resources
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.GenerateResource.cache
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe.licenses
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CoreCompileInputs.cache
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.csproj.CopyComplete
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.exe
+C:\Users\PC3310\Desktop\Toplantı odası rezervasyon\toplantı_odası_rezervazsyonn\toplantı_odası_rezervazsyon\obj\Debug\toplantı_odası_rezervazsyon.pdb
